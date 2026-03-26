@@ -1,12 +1,13 @@
 # 💳 Credit Card Validator
 
-[![Build Status](https://github.com/your-username/ahj-homeworks/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/your-username/ahj-homeworks/actions)
+[![Build Status](https://github.com/benovo71/credit-card-validator/workflows/Build%20and%20Deploy/badge.svg)]
+(https://github.com/benovo71/credit-card-validator/actions)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 > Виджет для валидации номера банковской карты с определением платёжной системы.
 
-🔗 **Демо**: [https://your-username.github.io/ahj-homeworks/](https://your-username.github.io/ahj-homeworks/)
+🔗 **Демо**: [https://benovo71/.github.io/credit-card-validator/](https://benovo71.github.io/credit-card-validator/)
 
 ---
 
@@ -37,7 +38,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/your-username/ahj-homeworks.git
+git clone https://github.com/benovo71/credit-card-validator.git
 cd ahj-homeworks/testing/credit-card-validator
 
 # Установить зависимости
