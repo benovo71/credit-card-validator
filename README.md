@@ -33,17 +33,3 @@
 
 - Node.js ≥ 16
 - npm ≥ 8
-
-### Установка и запуск
-
-```bash
-# Клонировать репозиторий
-git clone https://github.com/benovo71/credit-card-validator.git
-cd ahj-homeworks/testing/credit-card-validator
-
-# Установить зависимости
-npm install
-
-# Запустить локальный сервер разработки
-npm start
-```
